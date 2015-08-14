@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UIFlexibleFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="titles">
+        <item>Guide Assumptions</item>
+        <item>What is Rails?</item>
+        <item>Creating a New Rails Project</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>
+            This guide is designed for beginners who want to get started with a Rails application from scratch. It does not assume that you have any prior experience with Rails. However, to get the most out of it, you need to have some prerequisites installed.
+        </item>
+        <item>
+            Rails is a web application development framework written in the Ruby language. It is designed to make programming web applications easier by making assumptions about what every developer needs to get started. It allows you to write less code while accomplishing more than many other languages and frameworks. Experienced Rails developers also report that it makes web application development more fun.
+        </item>
+        <item>
+            The best way to use this guide is to follow each step as it happens, no code or step needed to make this example application has been left out, so you can literally follow along step by step.
+        </item>
+
+    </string-array>
+
+</resources>
